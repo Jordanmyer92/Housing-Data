@@ -9,3 +9,5 @@ https://github.com/Jordanmyer92/Housing-Data/blob/main/App%20Screenshots/Codes%2
 https://github.com/Jordanmyer92/Housing-Data/blob/main/App%20Screenshots/Danger%20List.png
 
 https://github.com/Jordanmyer92/Housing-Data/blob/main/App%20Screenshots/Land%20Bank.png
+
+https://github.com/Jordanmyer92/Housing-Data/blob/main/App%20Screenshots/Owners.png
