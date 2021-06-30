@@ -4,6 +4,8 @@ Data analysis for buying distressed property in Kansas City, MO. API's from the 
 
 Addresses the need for a streamlined approach to finding distressed properties and ownership information. 
 
+Screenshots: 
+
 https://github.com/Jordanmyer92/Housing-Data/blob/main/App%20Screenshots/Codes%20Violations.png
 
 https://github.com/Jordanmyer92/Housing-Data/blob/main/App%20Screenshots/Danger%20List.png
